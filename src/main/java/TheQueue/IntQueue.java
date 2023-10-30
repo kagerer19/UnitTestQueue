@@ -28,7 +28,7 @@ public class IntQueue {
             return poppedElement;
         } else {
             System.out.println("Error: queue is empty");
-            return -1; // Return a default value in case of an empty queue
+            return -1; // Return a default value in the case of an empty queue
         }
     }
 
